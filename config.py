@@ -35,7 +35,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/stkeditz/AAROHIxMUSICv2",
+    "𝐒𝐎𝐑𝐑𝐘 𝐑𝐄𝐏𝐎 𝐈𝐒 𝐑𝐄𝐏𝐎 𝐈𝐒 𝐏𝐑𝐈𝐕𝐀𝐓𝐄",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -43,7 +43,7 @@ GIT_TOKEN = getenv(
 )  # Fill this variable if your upstream repository is private
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Equinoxnetwork")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Equinox_chat")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Equinox_chats")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "True")
@@ -86,10 +86,10 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/0c373d33859cd378dcafe.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/72b55576b26a34f2efc86.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/f16f757fe9c10f81b67ef.jpg"
+    "PING_IMG_URL", "https://te.legra.ph/file/78de05755697d700d3dcf.Gif"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/e68f585a0a2e4e5dc1164.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/4a7c28726502e24ea0fe0.jpg"
