@@ -35,7 +35,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "𝐒𝐎𝐑𝐑𝐘 𝐑𝐄𝐏𝐎 𝐈𝐒 𝐑𝐄𝐏𝐎 𝐈𝐒 𝐏𝐑𝐈𝐕𝐀𝐓𝐄",
+    "https://github.com/RahulSJb/Cheems-robot",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
