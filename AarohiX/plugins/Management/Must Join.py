@@ -26,11 +26,11 @@ async def must_join_channel(app: Client, msg: Message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("</> ᴍᴜsɪᴄ ʙᴏᴛ[❣️]", url=f"https://t.me/Alone_Dil_bot?startgroup=true"),
+                                InlineKeyboardButton("</> ᴍᴜsɪᴄ ʙᴏᴛ[❣️]", url=f"https://t.me/Equinox_chat?startgroup=true"),
                             ],
                             [
                                 InlineKeyboardButton("</> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ[❣️]", url=link),
-                                InlineKeyboardButton("</> ᴄʜᴀɴɴᴇʟ ᴄʜᴀᴛ[❣️]", url=f"https://t.me/AllPremiumBIN"),
+                                InlineKeyboardButton("</> ᴄʜᴀɴɴᴇʟ ᴄʜᴀᴛ[❣️]", url=f"https://t.me/Equinoxnetwork"),
                             ],
                         ]
                     )
